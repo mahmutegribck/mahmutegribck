@@ -17,7 +17,7 @@ I am a software engineering student . Im adding everything I've learned here!
 
 
 [instagram]: https://www.instagram.com/mahmutegribck
-[linkedin]: https://www.linkedin.com
+[linkedin]: https://www.linkedin.com/in/mahmut-eğribacak
 [gmail]: mailto:megribck01@gmail.com
 <br />
 
