@@ -1,6 +1,6 @@
 ### Hi! Welcome to my Github profile 👋
 
-I am a software engineering student . Im adding everything I've learned here! I am interested in Network security, Server security, IDS and IPS systems,Linux, Cyber security, Python and Bash/Shell Scrip
+I am a software engineering student . Im adding everything I've learned here!                                                                                            
 - 🔭 I'm currently working on .Net technologies.
 - 🌱 I'm currently learning developing Web Site with Asp.Net MVC and layered architecture.
 - 💬 Ask me about anything.
