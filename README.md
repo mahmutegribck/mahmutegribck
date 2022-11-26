@@ -29,7 +29,6 @@ I am a software engineering student . Im adding everything I've learned here!
 <img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/php/php.png" />
 <img align="left" alt="Python" width="30px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" />
-<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/iamruveyda/img/c0afbbf42cbb9e931984701107180cbea3d3c062/Languages%20and%20Tools/CSharp.svg" />
 <img align="left" alt="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Android" width="30px" src="https://iconape.com/wp-content/files/lf/371619/svg/371619.svg" />
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
