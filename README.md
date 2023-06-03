@@ -2,7 +2,7 @@
 
 I am a software engineering student . Im adding everything I've learned here!                                                                                            
 - 🔭 I'm currently working on .Net technologies.
-- 🌱 I'm currently learning developing Web Site with Asp.Net core MVC and layered architecture.
+- 🌱 I'm currently learning developing Web Site with Asp.Net Core MVC and layered architecture.
 - 💬 Ask me about anything.
 
 ### 📩 Connect with me:
