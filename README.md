@@ -7,12 +7,13 @@ I am a software engineering student . Im adding everything I've learned here!
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="100px"  height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="52"  height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" />][linkedin]
 
-[<img align="left" alt="Gmail" width="100px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="Gmail" width="52" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" />][gmail]
+<br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmutegribck&label=Profile%20views&color=0e75b6&style=flat" alt="mahmutegribck" /> </p>
-<br />
+
 
 
 [instagram]: https://www.instagram.com/mahmutegribck
