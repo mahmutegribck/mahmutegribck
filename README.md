@@ -8,7 +8,7 @@ I am a software engineering student . Im adding everything I've learned here!
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="100px"  height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram" width="100px" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
 [<img align="left" alt="Gmail" width="100px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmutegribck&label=Profile%20views&color=0e75b6&style=flat" alt="mahmutegribck" /> </p>
