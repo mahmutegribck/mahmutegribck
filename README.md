@@ -21,7 +21,8 @@ I am a software engineering student . Im adding everything I've learned here!
 [gmail]: mailto:megribck01@gmail.com
 
 
-### 🔧 Languages and Tools:
+
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 <img align="left" alt="C#" width="50px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
 <img align="left" alt="DotNetCore" width="50px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" />
