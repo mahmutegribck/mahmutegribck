@@ -1,4 +1,4 @@
-### Hi! Welcome to my Github profile 👋
+###  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" /> Hi! Welcome to my Github profile
 
 I am a software engineering student . Im adding everything I've learned here!                                                                                            
 - 🔭 I'm currently working on .Net technologies.
