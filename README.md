@@ -5,7 +5,7 @@ I am a software engineering student . Im adding everything I've learned here!
 - 🌱 I'm currently learning developing .Net Core Web API and layered architecture.
 - 💬 Ask me about anything.
 
-### 📩 Connect with me:
+### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="52"  height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" />][linkedin]
 
